@@ -1,0 +1,4 @@
+baseURL = 'https://tbd.com/'
+languageCode = 'en-nl'
+title = 'TO BE DETERMINED'
+theme = 'ananke'
